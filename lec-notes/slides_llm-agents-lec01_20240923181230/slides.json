@@ -1,0 +1,527 @@
+[
+    {
+        "group_id": 0,
+        "first_timestamp_of_group": 1.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_0.png"
+    },
+    {
+        "group_id": 1,
+        "first_timestamp_of_group": 14.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_1.png"
+    },
+    {
+        "group_id": 2,
+        "first_timestamp_of_group": 62.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_2.png"
+    },
+    {
+        "group_id": 3,
+        "first_timestamp_of_group": 87.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_3.png"
+    },
+    {
+        "group_id": 4,
+        "first_timestamp_of_group": 134.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_4.png"
+    },
+    {
+        "group_id": 5,
+        "first_timestamp_of_group": 215.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_5.png"
+    },
+    {
+        "group_id": 6,
+        "first_timestamp_of_group": 237.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_6.png"
+    },
+    {
+        "group_id": 7,
+        "first_timestamp_of_group": 298.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_7.png"
+    },
+    {
+        "group_id": 8,
+        "first_timestamp_of_group": 304.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_8.png"
+    },
+    {
+        "group_id": 9,
+        "first_timestamp_of_group": 308.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_9.png"
+    },
+    {
+        "group_id": 10,
+        "first_timestamp_of_group": 314.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_10.png"
+    },
+    {
+        "group_id": 11,
+        "first_timestamp_of_group": 318.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_11.png"
+    },
+    {
+        "group_id": 12,
+        "first_timestamp_of_group": 322.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_12.png"
+    },
+    {
+        "group_id": 13,
+        "first_timestamp_of_group": 338.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_13.png"
+    },
+    {
+        "group_id": 14,
+        "first_timestamp_of_group": 453.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_14.png"
+    },
+    {
+        "group_id": 15,
+        "first_timestamp_of_group": 543.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_15.png"
+    },
+    {
+        "group_id": 16,
+        "first_timestamp_of_group": 567.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_16.png"
+    },
+    {
+        "group_id": 17,
+        "first_timestamp_of_group": 588.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_17.png"
+    },
+    {
+        "group_id": 18,
+        "first_timestamp_of_group": 611.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_18.png"
+    },
+    {
+        "group_id": 19,
+        "first_timestamp_of_group": 643.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_19.png"
+    },
+    {
+        "group_id": 20,
+        "first_timestamp_of_group": 675.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_20.png"
+    },
+    {
+        "group_id": 21,
+        "first_timestamp_of_group": 701.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_21.png"
+    },
+    {
+        "group_id": 22,
+        "first_timestamp_of_group": 711.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_22.png"
+    },
+    {
+        "group_id": 23,
+        "first_timestamp_of_group": 727.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_23.png"
+    },
+    {
+        "group_id": 24,
+        "first_timestamp_of_group": 743.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_24.png"
+    },
+    {
+        "group_id": 25,
+        "first_timestamp_of_group": 758.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_25.png"
+    },
+    {
+        "group_id": 26,
+        "first_timestamp_of_group": 803.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_26.png"
+    },
+    {
+        "group_id": 27,
+        "first_timestamp_of_group": 873.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_27.png"
+    },
+    {
+        "group_id": 28,
+        "first_timestamp_of_group": 881.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_28.png"
+    },
+    {
+        "group_id": 29,
+        "first_timestamp_of_group": 946.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_29.png"
+    },
+    {
+        "group_id": 30,
+        "first_timestamp_of_group": 974.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_30.png"
+    },
+    {
+        "group_id": 31,
+        "first_timestamp_of_group": 1043.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_31.png"
+    },
+    {
+        "group_id": 32,
+        "first_timestamp_of_group": 1061.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_32.png"
+    },
+    {
+        "group_id": 33,
+        "first_timestamp_of_group": 1102.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_33.png"
+    },
+    {
+        "group_id": 34,
+        "first_timestamp_of_group": 1112.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_34.png"
+    },
+    {
+        "group_id": 35,
+        "first_timestamp_of_group": 1171.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_35.png"
+    },
+    {
+        "group_id": 36,
+        "first_timestamp_of_group": 1243.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_36.png"
+    },
+    {
+        "group_id": 37,
+        "first_timestamp_of_group": 1290.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_37.png"
+    },
+    {
+        "group_id": 38,
+        "first_timestamp_of_group": 1323.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_38.png"
+    },
+    {
+        "group_id": 39,
+        "first_timestamp_of_group": 1357.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_39.png"
+    },
+    {
+        "group_id": 40,
+        "first_timestamp_of_group": 1407.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_40.png"
+    },
+    {
+        "group_id": 41,
+        "first_timestamp_of_group": 1418.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_41.png"
+    },
+    {
+        "group_id": 42,
+        "first_timestamp_of_group": 1441.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_42.png"
+    },
+    {
+        "group_id": 43,
+        "first_timestamp_of_group": 1467.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_43.png"
+    },
+    {
+        "group_id": 44,
+        "first_timestamp_of_group": 1483.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_44.png"
+    },
+    {
+        "group_id": 45,
+        "first_timestamp_of_group": 1510.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_45.png"
+    },
+    {
+        "group_id": 46,
+        "first_timestamp_of_group": 1577.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_46.png"
+    },
+    {
+        "group_id": 47,
+        "first_timestamp_of_group": 1661.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_47.png"
+    },
+    {
+        "group_id": 48,
+        "first_timestamp_of_group": 1731.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_48.png"
+    },
+    {
+        "group_id": 49,
+        "first_timestamp_of_group": 1835.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_49.png"
+    },
+    {
+        "group_id": 50,
+        "first_timestamp_of_group": 1901.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_50.png"
+    },
+    {
+        "group_id": 51,
+        "first_timestamp_of_group": 1964.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_51.png"
+    },
+    {
+        "group_id": 52,
+        "first_timestamp_of_group": 1988.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_52.png"
+    },
+    {
+        "group_id": 53,
+        "first_timestamp_of_group": 2022.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_53.png"
+    },
+    {
+        "group_id": 54,
+        "first_timestamp_of_group": 2038.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_54.png"
+    },
+    {
+        "group_id": 55,
+        "first_timestamp_of_group": 2057.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_55.png"
+    },
+    {
+        "group_id": 56,
+        "first_timestamp_of_group": 2094.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_56.png"
+    },
+    {
+        "group_id": 57,
+        "first_timestamp_of_group": 2126.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_57.png"
+    },
+    {
+        "group_id": 58,
+        "first_timestamp_of_group": 2157.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_58.png"
+    },
+    {
+        "group_id": 59,
+        "first_timestamp_of_group": 2208.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_59.png"
+    },
+    {
+        "group_id": 60,
+        "first_timestamp_of_group": 2219.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_60.png"
+    },
+    {
+        "group_id": 61,
+        "first_timestamp_of_group": 2246.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_61.png"
+    },
+    {
+        "group_id": 62,
+        "first_timestamp_of_group": 2267.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_62.png"
+    },
+    {
+        "group_id": 63,
+        "first_timestamp_of_group": 2318.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_63.png"
+    },
+    {
+        "group_id": 64,
+        "first_timestamp_of_group": 2335.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_64.png"
+    },
+    {
+        "group_id": 65,
+        "first_timestamp_of_group": 2425.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_65.png"
+    },
+    {
+        "group_id": 66,
+        "first_timestamp_of_group": 2537.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_66.png"
+    },
+    {
+        "group_id": 67,
+        "first_timestamp_of_group": 2570.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_67.png"
+    },
+    {
+        "group_id": 68,
+        "first_timestamp_of_group": 2584.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_68.png"
+    },
+    {
+        "group_id": 69,
+        "first_timestamp_of_group": 2602.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_69.png"
+    },
+    {
+        "group_id": 70,
+        "first_timestamp_of_group": 2635.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_70.png"
+    },
+    {
+        "group_id": 71,
+        "first_timestamp_of_group": 2664.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_71.png"
+    },
+    {
+        "group_id": 72,
+        "first_timestamp_of_group": 2686.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_72.png"
+    },
+    {
+        "group_id": 73,
+        "first_timestamp_of_group": 2725.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_73.png"
+    },
+    {
+        "group_id": 74,
+        "first_timestamp_of_group": 2783.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_74.png"
+    },
+    {
+        "group_id": 75,
+        "first_timestamp_of_group": 2805.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_75.png"
+    },
+    {
+        "group_id": 76,
+        "first_timestamp_of_group": 2844.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_76.png"
+    },
+    {
+        "group_id": 77,
+        "first_timestamp_of_group": 2875.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_77.png"
+    },
+    {
+        "group_id": 78,
+        "first_timestamp_of_group": 2906.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_78.png"
+    },
+    {
+        "group_id": 79,
+        "first_timestamp_of_group": 2956.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_79.png"
+    },
+    {
+        "group_id": 80,
+        "first_timestamp_of_group": 3013.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_80.png"
+    },
+    {
+        "group_id": 81,
+        "first_timestamp_of_group": 3031.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_81.png"
+    },
+    {
+        "group_id": 82,
+        "first_timestamp_of_group": 3058.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_82.png"
+    },
+    {
+        "group_id": 83,
+        "first_timestamp_of_group": 3099.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_83.png"
+    },
+    {
+        "group_id": 84,
+        "first_timestamp_of_group": 3110.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_84.png"
+    },
+    {
+        "group_id": 85,
+        "first_timestamp_of_group": 3131.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_85.png"
+    },
+    {
+        "group_id": 86,
+        "first_timestamp_of_group": 3161.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_86.png"
+    },
+    {
+        "group_id": 87,
+        "first_timestamp_of_group": 3183.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_87.png"
+    },
+    {
+        "group_id": 88,
+        "first_timestamp_of_group": 3214.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_88.png"
+    },
+    {
+        "group_id": 89,
+        "first_timestamp_of_group": 3225.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_89.png"
+    },
+    {
+        "group_id": 90,
+        "first_timestamp_of_group": 3286.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_90.png"
+    },
+    {
+        "group_id": 91,
+        "first_timestamp_of_group": 3304.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_91.png"
+    },
+    {
+        "group_id": 92,
+        "first_timestamp_of_group": 3323.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_92.png"
+    },
+    {
+        "group_id": 93,
+        "first_timestamp_of_group": 3346.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_93.png"
+    },
+    {
+        "group_id": 94,
+        "first_timestamp_of_group": 3383.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_94.png"
+    },
+    {
+        "group_id": 95,
+        "first_timestamp_of_group": 3444.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_95.png"
+    },
+    {
+        "group_id": 96,
+        "first_timestamp_of_group": 3452.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_96.png"
+    },
+    {
+        "group_id": 97,
+        "first_timestamp_of_group": 3479.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_97.png"
+    },
+    {
+        "group_id": 98,
+        "first_timestamp_of_group": 3491.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_98.png"
+    },
+    {
+        "group_id": 99,
+        "first_timestamp_of_group": 3583.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_99.png"
+    },
+    {
+        "group_id": 100,
+        "first_timestamp_of_group": 3611.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_100.png"
+    },
+    {
+        "group_id": 101,
+        "first_timestamp_of_group": 3729.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_101.png"
+    },
+    {
+        "group_id": 102,
+        "first_timestamp_of_group": 3790.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_102.png"
+    },
+    {
+        "group_id": 103,
+        "first_timestamp_of_group": 3799.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_103.png"
+    },
+    {
+        "group_id": 104,
+        "first_timestamp_of_group": 3825.0,
+        "image_path": "/Users/bill/Downloads/slides_llm-agents-lec01_20240923181230/slide_104.png"
+    }
+]
